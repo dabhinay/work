@@ -1,1 +1,1 @@
-content in testfile2 using branch 1
+content in testfile2 using branch 2
